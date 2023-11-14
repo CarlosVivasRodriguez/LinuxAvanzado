@@ -1,1 +1,3 @@
-print ("goodbye, friends")
+print("goodbye, friends")
+print("see you soon!")
+
