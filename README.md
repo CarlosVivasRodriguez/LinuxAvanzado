@@ -1,7 +1,7 @@
-#Welcome to my first git repo
+# Welcome to my first git repo
 
-##Author information
+## Author information
 Carlos Vivas
 
-##Project Description
+## Project Description
 Just a test git repo for learning
